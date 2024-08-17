@@ -1,0 +1,71 @@
+!Where is the capitol of Wyoming?
+=b
+*Casper
+*Cheyenne
+*Rock Springs
+*Cody
+$
+!_________ is the capital of the state of Jalisco, Mexico
+=c
+*Mexico City
+*Monterrey
+*Guadalajara
+*Querétaro
+$
+!Bangalore is officially known as.
+=d
+*Mumbai
+*Delhi
+*Hyderabad
+*Bengaluru
+$
+!The Sunfish sailboat was first introduced in...
+=a
+*1947
+*1952
+*1962
+*1970
+$
+!The first person to reach the North Pole is widely recognized as...
+=c
+*James Cook
+*Marco Polo
+*Robert Peary
+*Ernest Shackleton
+$
+!The Volkswagen Type 2, commonly known as the VW Bus or VW Microbus, featured _____ windows
+=d
+*7
+*10
+*15
+*23
+$
+!The SR-71 Blackbird, a long-range, advanced, strategic reconnaissance aircraft, first flew in...I
+=b
+*1958
+*1964
+*1970
+*1972
+$
+!The first successful crewed Apollo mission was Apollo 7, which launched in... 
+=b
+*1964
+*1968
+*1970
+*1972
+$
+!The F-15 Eagle, a twin-engine, all-weather tactical fighter aircraft, first flew in...
+=c
+*1968
+*1970
+*1972
+*1978
+$
+!The C-47 Skytrain is powered by ___ engines. 
+=b
+*1
+*2
+*4
+*0 (It was a glider.)
+$
+# END of QUIZ
