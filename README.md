@@ -2,6 +2,7 @@
 A very simple quiz generator.  
 
 - Less than 100 lines of Python
+- CLI display only
 - Public domain
 - No external modules to download
 - Should work on Windows, Linux and macOS
